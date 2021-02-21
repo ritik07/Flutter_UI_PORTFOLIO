@@ -1,3 +1,10 @@
+## Screenshots
+
+Profile Page
+![Home Page](/assets/Screenshots/p1.jpg?raw=true "Optional Title")
+Profile Page
+![Dark Theme](/assets/Screenshots/p2.jpg?raw=true "Optional Title")
+
 # flutternew
 
 A new Flutter project.
